@@ -1,0 +1,3 @@
+export const param = Object.freeze({
+  token: 'eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhZG1pbjJAZGVtby5jb20iLCJpYXQiOjE3Mjk1ODM1NjIsImV4cCI6MTcyOTU5MTk2Mn0.l2b2vxegHD-TAAlZJUOIbeVC4eXzg3zGOx4Zwp56rhSr09NljuI5Cp52rlC6eMs-Bfp4Ms6L970oC2BwIgkQ6w'
+})
